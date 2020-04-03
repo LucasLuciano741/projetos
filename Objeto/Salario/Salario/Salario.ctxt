@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Salario
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Salario\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=double\ calcSalBruto()
+comment2.params=
+comment2.target=double\ calcDescInss()
+comment3.params=
+comment3.target=double\ calDescIR()
+comment4.params=
+comment4.target=double\ calSalLiquido()
+numComments=5
